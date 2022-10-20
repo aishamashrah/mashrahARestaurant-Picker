@@ -6,6 +6,12 @@
 
 
 Console.Clear();
+bool playAgain = true;
+
+while(playAgain){
+
+
+Console.Clear();
 Console.WriteLine("Lets PiCk A Categories ");
 Console.WriteLine("American,Indian ,Italian,");
 
@@ -147,6 +153,24 @@ switch (userInput){
      
         
      } 
+      Console.WriteLine(" ");
+    Console.WriteLine(" ");
+    Console.WriteLine("Would you like to play again? Yes or No");
+    string rePlay = Console.ReadLine();
+    if(rePlay == "YES" || rePlay == "Yes" || rePlay == "yes"){
+        playAgain = true;
+        Console.Clear();
+        Console.WriteLine( "Lets play again" );
+        Console.WriteLine( " " );
+    } 
+    if(rePlay == "NO" || rePlay == "no"){
+        playAgain = false;
+        Console.WriteLine( " " );
+        Console.WriteLine( "thank you " );
+    } 
+}
+
+
 
     
 
