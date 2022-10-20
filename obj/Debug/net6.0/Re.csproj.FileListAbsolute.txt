@@ -1,0 +1,15 @@
+/Users/aishamashrah/Desktop/homework/Re/bin/Debug/net6.0/Re
+/Users/aishamashrah/Desktop/homework/Re/bin/Debug/net6.0/Re.deps.json
+/Users/aishamashrah/Desktop/homework/Re/bin/Debug/net6.0/Re.runtimeconfig.json
+/Users/aishamashrah/Desktop/homework/Re/bin/Debug/net6.0/Re.dll
+/Users/aishamashrah/Desktop/homework/Re/bin/Debug/net6.0/Re.pdb
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/Re.csproj.AssemblyReference.cache
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/Re.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/Re.AssemblyInfoInputs.cache
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/Re.AssemblyInfo.cs
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/Re.csproj.CoreCompileInputs.cache
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/Re.dll
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/refint/Re.dll
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/Re.pdb
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/Re.genruntimeconfig.cache
+/Users/aishamashrah/Desktop/homework/Re/obj/Debug/net6.0/ref/Re.dll
