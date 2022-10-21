@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/aishamashrah/.nuget/packages/": {}
+    "C:\\Users\\ferna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aishamashrah/Desktop/homework/Re/Re.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitReviews\\mashrahARestaurant-Picker\\Re.csproj",
       "projectName": "Re",
-      "projectPath": "/Users/aishamashrah/Desktop/homework/Re/Re.csproj",
-      "packagesPath": "/Users/aishamashrah/.nuget/packages/",
-      "outputPath": "/Users/aishamashrah/Desktop/homework/Re/obj/",
+      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitReviews\\mashrahARestaurant-Picker\\Re.csproj",
+      "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitReviews\\mashrahARestaurant-Picker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/aishamashrah/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
